@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mehmetemininac@gmail.com"]
   spec.summary       = %q{Get rails route list programmatically.}
   spec.description   = %q{Get rails route list programmatically.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/meinac/route_list"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
