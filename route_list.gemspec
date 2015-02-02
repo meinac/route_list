@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mehmet Emin İNAÇ"]
   spec.email         = ["mehmetemininac@gmail.com"]
   spec.summary       = %q{Get rails route list programmatically.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Get rails route list programmatically.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
